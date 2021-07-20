@@ -1,3 +1,19 @@
 body {
   margin: 0;
+  font-size: 18px;
+}
+header {
+  background-image: url("./images/desktop/image-header.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 500px;
+}
+.header_content {
+  color: white;
+}
+.header_logo {
+  width: auto;
+  height: 100%;
+  margin-top: 30px;
 }
